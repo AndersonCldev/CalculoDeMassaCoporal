@@ -1,7 +1,7 @@
 # Calculadora de Índice de Massa Corporal (IMC)
 Este é um programa simples em Java que calcula o Índice de Massa Corporal (IMC) com base no peso e na altura fornecidos pelo usuário. O IMC é uma medida comum usada para avaliar se uma pessoa está com peso saudável, abaixo do peso ou acima do peso.
 
-Como funciona
+# Como funciona
 O programa utiliza a classe Scanner para permitir a entrada de dados do usuário.
 
 Duas variáveis de ponto flutuante, altura e peso, são declaradas para armazenar os valores inseridos pelo usuário.
@@ -18,7 +18,7 @@ O IMC é calculado usando a fórmula peso / (altura * altura) e armazenado na va
 
 O programa exibe o IMC calculado com a mensagem "Seu indice de massa corporal é: ".
 
-Execução
+# Execução
 Para executar o programa, certifique-se de ter um ambiente de desenvolvimento Java configurado e siga as instruções fornecidas pelo programa.
 
 Este programa é uma ferramenta simples para calcular o IMC e pode ser uma base útil para projetos mais complexos de monitoramento de saúde ou para fins educacionais.
